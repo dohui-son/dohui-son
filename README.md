@@ -1,4 +1,13 @@
-### Hi there 👋
+## 🤔 Front-end web development 👋
+---
+### 구조와 원리에 파고드는, 진취적인 개발자 손도희 
+---
+### Tech Stacks and Tools
+Tech Stacks
+<img src="https://img.shields.io/badge/C++-white?style=flat-square&logo=로고&logoColor=blue#00599C"/>
+---
+### Contact
+[Email](thsehgml37@korea.ac.kr, "Send Message")
 
 <!--
 **dohui-son/dohui-son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
