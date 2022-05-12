@@ -1,4 +1,4 @@
-### 💻 Front-end web development ( Self-motivated team player )
+### 💻 Front-end Engineer ( Self-motivated team player )
 ### 🤔 구조와 원리를 파고드는, 진취적인 개발자 손도희 입니다.
 
 ## 🖥 Career
