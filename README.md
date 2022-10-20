@@ -50,7 +50,7 @@
 ###### 학기 최우등상 수상 4회  | 고려대학교 |  표창
 ### Activity<br/>
 ###### ALPS ( 알고리즘 학회 ), DEVKOR ( SW 학회 ), HANDS ( HW·SW학회 )
-### IT Blog<br/>
+### IT Blog <br/>
 https://developer-dson.tistory.com/
 
 
