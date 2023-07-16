@@ -10,8 +10,8 @@
 
 
 ## 📖 Education
-###### 고려대 정보대학 소프트웨어벤처융합 전공  |  B.E. 공학사 
-###### 고려대 디자인조형학부  |  B.F.A. 미술학사 
+###### [고려대 정보대학](https://info.korea.ac.kr/info/index.do#none) [소프트웨어벤처융합 전공](https://info.korea.ac.kr/info/under/sw_intro.do)  |  B.E. 공학사 
+###### [고려대 디자인조형학부](https://and.korea.ac.kr/kuand/index.do)  |  B.F.A. 미술학사 
 
 ## 🛠 Tech Stack and Tools
 ### Tech Stack<br/>
