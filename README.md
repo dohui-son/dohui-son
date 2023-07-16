@@ -2,9 +2,9 @@
 ### 🤔 구조와 원리를 파고드는, 진취적인 개발자 손도희 입니다.
 
 ## 🖥 Career
-###### (주)코르카 (구 Corca Ai)       |  프런트엔드 개발 
-###### 딜로이트 안진 회계 법인 Deloitte  |  리서치
-###### (주)레드로켓 Redrocket         |  프런트엔드 개발 
+###### (주)코르카 (구 Corca Ai)       |  프론트엔드 개발 Frontend Engineer
+###### 딜로이트 안진 회계 법인 Deloitte  |  리서치 Researcher
+###### (주)레드로켓 Redrocket         |  프론트엔드 개발 Frontend Engineer
 
 
 ## 📖 Education
