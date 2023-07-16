@@ -39,13 +39,15 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=helloking1234567890)](https://solved.ac/helloking1234567890)
 ---
 ## 🧑🏻‍💻 Project
-|Period|Title|Description|
-|------|---|---|
-|2021.12 - 2022.10|Ai Artrator|인공지능 플랫폼, 서버로 인공지능 모델 이용 및 구매·판매 서비스 (React JS)|
-|2021.08 - 2022.12|Art Recipe|예술작품 및 재료 정보 공유 플랫폼 (React JS)|
-|2021.05 - 2021.12|Sell Your Mind|메타버스 미디어아트 프로젝트 (Three JS, 졸업 프로젝트)|
-|2020.07 - 2020.10|Emoji Speaker|감정 전달 스마트스피커, 음성기반 감정 예측·전달 서비스(Python, 팀장)|
-|2020.06 - 2020.10|2020 미래에셋대우 금융 빅데이터 패스티벌|주식거래내역 기반 매수 상위종목 예측 (Python, 피처 엔지니어링)|
+|Period|Title|Description|Etc|
+|------|---|---|---|
+|2023.02 - Present|[ADCIO](https://www.adcio.ai/)|리테일 미디어 솔루션, 타게팅 설정을 바탕으로 AI 모델이 최적 상품을 노출.<br/>대시보드 및 브랜드 맞춤형 AI 챗봇 등 서비스 추가 제공 (Next JS)| [(주)코르카](https://www.corca.team/290de6d2-1046-434a-b238-58cb6cc395e1) 서비스<br/>(프론트엔드 개발) |
+|2023.06 - Present|[CLOSET](https://closet.adcio.ai/)|AI 코디 추천 서비스, ChatGPT 3.5 및 AI 모델 기반으로<br/>대화형 의류 추천 및 상품 이미지 꼴라쥬 서비스 (Next JS)| [(주)코르카](https://www.corca.team/290de6d2-1046-434a-b238-58cb6cc395e1) 서비스<br/>(프론트엔드 개발) |
+|2021.12 - 2022.10|Ai Artrator|인공지능 플랫폼, 서버로 인공지능 모델 이용 및 구매·판매 서비스 (React JS)| 팀 프로젝트<br/>(프론트엔드 개발) |
+|2021.08 - 2022.12|Art Recipe|예술작품 및 재료 정보 공유 플랫폼 (React JS)| 팀 프로젝트<br/>(프론트엔드 개발) |
+|2021.05 - 2021.12|Sell Your Mind|메타버스 미디어아트 프로젝트 (Three JS)| 개인 프로젝트<br/>(졸업 프로젝트) |
+|2020.07 - 2020.10|Emoji Speaker|감정 전달 스마트스피커, 음성기반 감정 예측·전달 서비스(Python)| 팀 프로젝트<br/>(팀장) |
+|2020.06 - 2020.10|2020 미래에셋대우<br/>금융 빅데이터 패스티벌|주식거래내역 기반 매수 상위종목 예측 (Python)| 팀 프로젝트<br/>(피처 엔지니어링) |
 
 ---
 ### 🏆 Award & Activity
