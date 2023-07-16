@@ -59,7 +59,7 @@
 ###### 제7회 ICT스마트디바이스 전국공모전  | 과학기술정보통신부 |  장려상
 ###### 학기 최우등상 수상 4회  | 고려대학교 |  표창
 ### Activity<br/>
-###### ALPS ( 알고리즘 학회 ), DEVKOR ( AI·SW 학회 ), HANDS ( HW·SW학회 )
+###### [ALPS ( 알고리즘 학회 )](https://info.korea.ac.kr/info/community/circle.do), [DEVKOR ( AI·SW 학회 )](https://devkor.notion.site/DevKor-670168c4662a4582b447cfba6f7206f4), [HANDS ( HW·SW학회 )](https://hands.korea.ac.kr/)
 
 
 
