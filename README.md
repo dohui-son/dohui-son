@@ -1,48 +1,11 @@
 ### 💻 Front-end Engineer ( Self-motivated team player )
-### 🤔 구조와 원리를 파고드는, 진취적인 개발자 손도희 입니다.
+🤔 구조와 원리를 파고드는, 진취적인 개발자 손도희 입니다.     |    thsehgml37@korea.ac.kr 
 
 ## 🖥 Career
-### Present<br/>
 ###### [(주)코르카 (구 Corca Ai)](https://www.adcio.ai/4be0d473-1885-4c80-806f-f41c06dc71fe)       |  프론트엔드 개발 Frontend Engineer ( ***재직 중*** )
-### History<br/>
 ###### [딜로이트 안진 회계 법인 Deloitte](https://www2.deloitte.com/kr/ko.html)  |  리서치 Researcher
 ###### [(주)레드로켓 Redrocket](https://campusfund.net/cs)         |  프론트엔드 개발 Frontend Engineer
 
-
-## 📖 Education
-###### [고려대 정보대학](https://info.korea.ac.kr/info/index.do#none) [소프트웨어벤처융합 전공](https://info.korea.ac.kr/info/under/sw_intro.do)  |  B.E. 공학사 (GPA: 4.02 / 4.50)
-###### [고려대 디자인조형학부](https://and.korea.ac.kr/kuand/index.do)  |  B.F.A. 미술학사 
-
-## 🛠 Tech Stack and Tools
-### Tech Stack<br/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=c%2B%2B&logoColor=white"/><br/>
-
-<img src="https://img.shields.io/badge/Next JS-000000?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React JS-61DAFB?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=MySQL&logoColor=white"/></a>
-### Tool<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Microsoft Excel-217346?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
-
-### Alogorithm <br/>
-
-###### 2022.09. | 현대자동차그룹 알고리즘 역량 인증(HSAT) 취득  |  현대엔지비
-###### BOJ
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=helloking1234567890)](https://solved.ac/helloking1234567890)
----
 ## 🧑🏻‍💻 Project
 |Period|Title|Description|Etc|
 |------|---|---|---|
@@ -55,6 +18,31 @@
 |2020.07 - 2020.10|Emoji Speaker|감정 전달 스마트스피커, 음성기반 감정 예측·전달 서비스(Python)| 팀 프로젝트<br/>(팀장) |
 |2020.06 - 2020.10|2020 미래에셋대우<br/>금융 빅데이터 패스티벌|주식거래내역 기반 매수 상위종목 예측 (Python)| 팀 프로젝트<br/>(피처 엔지니어링) |
 
+## 🛠 Tech Stack and Tools
+### Tech Stack<br/>
+<img src="https://img.shields.io/badge/Next JS-000000?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React JS-61DAFB?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Nest JS-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=MySQL&logoColor=white"/></a>
+
+
+### Alogorithm <br/>
+
+#### 2022.09. | 현대자동차그룹 알고리즘 역량 인증(HSAT) 취득  |  현대엔지비
+###### BOJ
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=helloking1234567890)](https://solved.ac/helloking1234567890)
+
+
 ---
 ### 🏆 Award & Activity
 ### Award<br/>
@@ -65,7 +53,9 @@
 ###### [ALPS ( 알고리즘 학회 )](https://info.korea.ac.kr/info/community/circle.do), [DEVKOR ( AI·SW 학회 )](https://devkor.notion.site/DevKor-670168c4662a4582b447cfba6f7206f4), [HANDS ( HW·SW학회 )](https://hands.korea.ac.kr/)
 
 
-
+## 📖 Education
+###### [고려대 정보대학](https://info.korea.ac.kr/info/index.do#none) [소프트웨어벤처융합 전공](https://info.korea.ac.kr/info/under/sw_intro.do)  |  B.E. 공학사 (GPA: 4.02 / 4.50)
+###### [고려대 디자인조형학부](https://and.korea.ac.kr/kuand/index.do)  |  B.F.A. 미술학사 
 
 <!--
 **dohui-son/dohui-son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
