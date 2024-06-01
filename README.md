@@ -39,7 +39,7 @@
 
 #### 2022.09. | 현대자동차그룹 알고리즘 역량 인증(HSAT) 취득  |  현대엔지비
 ###### BOJ
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=helloking1234567890)](https://solved.ac/helloking1234567890)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=helloking1234567890)](https://solved.ac/helloking1234567890](https://solved.ac/profile/helloking1234567890)
 
 ---
 ### 🏆 Award & Activity
