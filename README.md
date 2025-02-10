@@ -8,7 +8,7 @@
 |------|---|---|---|
 |2023.02 - Present|[Corca Ads](https://ads.corca.dev/auth/sign-in) (코르카 애즈)|리테일 미디어 솔루션, 타게팅 설정을 바탕으로 AI 모델이 최적 상품 노출.<br/>[대시보드](https://store.cafe24.com/kr/apps/20784) 및 [맞춤형 LLM 챗봇](https://www.corca.ai/ko/research/llms) 등 서비스 추가 제공 (Next JS)| [(주)코르카](https://www.corca.ai/ko/research) 서비스<br/>(프론트엔드) |
 |2023.12 - 2024.11|[Corca Design System](https://solutions-web-cds.vercel.app/?path=/story/date-and-time-calander-play--change-month-test)|코르카 디자인 시스템, 스토리북 도큐멘테이션 및 컴포넌트 테스트  (React JS)| [(주)코르카](https://www.corca.ai/ko/research) 서비스<br/>(프론트엔드) |
-|2023.08 - 2024.03|[SDK](https://docs.corca.dev/)|AI 상품 추천 SDK, 배너/상품 그리드/[위젯](https://www.npmjs.com/package/@adcio.js/widget?activeTab=readme) 포맷의 추천 UI 및 모델 위한 log collection 등 개발  (Vanilla JS)| [(주)코르카](https://www.corca.ai/ko/research) 서비스<br/>(프론트엔드) |
+|2023.08 - 2024.03|[SDK](https://docs.corca.dev/)|AI 상품 추천 SDK, 배너/캐러셀/상품 그리드/[위젯](https://www.npmjs.com/package/@adcio.js/widget?activeTab=readme) 포맷의 추천 UI 및 모델 위한 log collection 등 개발  (Vanilla JS)| [(주)코르카](https://www.corca.ai/ko/research) 서비스<br/>(프론트엔드) |
 |2023.04 - 2023.06|CLOSET(서비스 종료)|AI 코디 추천 서비스, ChatGPT 3.5 및 AI 모델 기반으로<br/>대화형 의류 추천 및 상품 이미지 꼴라쥬 서비스  (React JS)| [(주)코르카](https://www.corca.ai/ko/research) 서비스<br/>(프론트엔드) |
 |2024.07 - 2024.08|[공무인](https://www.gongmuin.site/)|FSD 아키텍처로 공무원 인수인계 시스템 웹앱 개발 및 배포 파이프라인 구축, 디자인 시스템 개발 및 스토리북 도큐멘테이션 (Next JS)| [DND](https://dnd.ac/projects/77)<br/>(프론트엔드) |
 |2021.12 - 2022.10|[Ai Artrator](https://fluttering-dhson-cv.notion.site/Ai-Artrator-13cce6038e0f81c9be20ec9c966cd285?pvs=4)|인공지능 플랫폼, 클라우드 서버로 인공지능 모델 이용 및 구매·판매 서비스 (React JS)| 팀 프로젝트<br/>(프론트엔드) |
