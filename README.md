@@ -6,12 +6,12 @@
 ## 🧑🏻‍💻 Project
 |Period|Title|Description|Etc|
 |------|---|---|---|
-|2023.02 - Present|[Corca Ads](https://ads.corca.dev/auth/sign-in) (코르카 애즈)|리테일 미디어 솔루션, 타게팅 설정을 바탕으로 AI 모델이 최적 상품 노출.<br/>[대시보드](https://store.cafe24.com/kr/apps/20784) 및 [맞춤형 LLM 챗봇](https://www.corca.ai/ko/research/llms) 등 서비스 추가 제공 (Next JS)| [(주)코르카](https://www.corca.ai/ko/research) 서비스<br/>(프론트엔드 개발) |
-|2023.06 - Present|[Corca Design System](https://solutions-web-cds.vercel.app/?path=/story/date-and-time-calander-play--change-month-test)|코르카 디자인 시스템, 스토리북 도큐멘테이션 및 컴포넌트 테스트  (React JS)| [(주)코르카](https://www.corca.ai/ko/research) 서비스<br/>(프론트엔드 개발) |
-|2023.06 - Present|[SDK](https://docs.corca.dev/)|AI 상품 추천 SDK, 배너/상품 그리드/위젯 포맷의 추천 및 모델 위한 log collection 등 개발  (Vanilla JS)| [(주)코르카](https://www.corca.ai/ko/research) 서비스<br/>(프론트엔드 개발) |
-|2023.06 - Present|CLOSET(서비스 종료)|AI 코디 추천 서비스, ChatGPT 3.5 및 AI 모델 기반으로<br/>대화형 의류 추천 및 상품 이미지 꼴라쥬 서비스  (React JS)| [(주)코르카](https://www.corca.ai/ko/research) 서비스<br/>(프론트엔드 개발) |
-|2021.12 - 2022.10|Ai Artrator|인공지능 플랫폼, 클라우드 서버로 인공지능 모델 이용 및 구매·판매 서비스 (React JS)| 팀 프로젝트<br/>(프론트엔드 개발) |
-|2021.08 - 2022.12|Art Recipe|예술작품 및 재료 정보 공유 플랫폼 (React JS)| 팀 프로젝트<br/>(프론트엔드 개발) |
+|2023.02 - Present|[Corca Ads](https://ads.corca.dev/auth/sign-in) (코르카 애즈)|리테일 미디어 솔루션, 타게팅 설정을 바탕으로 AI 모델이 최적 상품 노출.<br/>[대시보드](https://store.cafe24.com/kr/apps/20784) 및 [맞춤형 LLM 챗봇](https://www.corca.ai/ko/research/llms) 등 서비스 추가 제공 (Next JS)| [(주)코르카](https://www.corca.ai/ko/research) 서비스<br/>(프론트엔드 직) |
+|2023.06 - Present|[Corca Design System](https://solutions-web-cds.vercel.app/?path=/story/date-and-time-calander-play--change-month-test)|코르카 디자인 시스템, 스토리북 도큐멘테이션 및 컴포넌트 테스트  (React JS)| [(주)코르카](https://www.corca.ai/ko/research) 서비스<br/>(프론트엔드 직) |
+|2023.06 - Present|[SDK](https://docs.corca.dev/)|AI 상품 추천 SDK, 배너/상품 그리드/위젯 포맷의 추천 및 모델 위한 log collection 등 개발  (Vanilla JS)| [(주)코르카](https://www.corca.ai/ko/research) 서비스<br/>(프론트엔드 직) |
+|2023.06 - Present|CLOSET(서비스 종료)|AI 코디 추천 서비스, ChatGPT 3.5 및 AI 모델 기반으로<br/>대화형 의류 추천 및 상품 이미지 꼴라쥬 서비스  (React JS)| [(주)코르카](https://www.corca.ai/ko/research) 서비스<br/>(프론트엔드 직) |
+|2021.12 - 2022.10|Ai Artrator|인공지능 플랫폼, 클라우드 서버로 인공지능 모델 이용 및 구매·판매 서비스 (React JS)| 팀 프로젝트<br/>(프론트엔드 직) |
+|2021.08 - 2022.12|Art Recipe|예술작품 및 재료 정보 공유 플랫폼 (React JS)| 팀 프로젝트<br/>(프론트엔드 직) |
 |2021.05 - 2021.12|Sell Your Mind|메타버스 프로젝트 (Three JS, React JS)| 개인 프로젝트<br/>(졸업 프로젝트) |
 |2020.11 - 2021.02|[Campus Fund](https://campusfund.net/home)|P2P 플랫폼, 대학생을 위한 크라우드 펀딩 서비스 (Angular JS)| [(주)레드로켓](https://campusfund.net/cs) 서비스<br/>(프론트엔드 개발) |
 |2020.07 - 2020.10|Emoji Speaker|감정 전달 스마트스피커, 음성기반 감정 예측·전달 서비스(Python)| 팀 프로젝트<br/>(팀장) |
