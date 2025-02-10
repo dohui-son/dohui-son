@@ -12,7 +12,7 @@
 |2023.06 - Present|CLOSET(서비스 종료)|AI 코디 추천 서비스, ChatGPT 3.5 및 AI 모델 기반으로<br/>대화형 의류 추천 및 상품 이미지 꼴라쥬 서비스  (React JS)| [(주)코르카](https://www.corca.ai/ko/research) 서비스<br/>(프론트엔드 개발) |
 |2021.12 - 2022.10|Ai Artrator|인공지능 플랫폼, 클라우드 서버로 인공지능 모델 이용 및 구매·판매 서비스 (React JS)| 팀 프로젝트<br/>(프론트엔드 개발) |
 |2021.08 - 2022.12|Art Recipe|예술작품 및 재료 정보 공유 플랫폼 (React JS)| 팀 프로젝트<br/>(프론트엔드 개발) |
-|2021.05 - 2021.12|Sell Your Mind|메타버스 미디어아트 프로젝트 (Three JS, React JS)| 개인 프로젝트<br/>(졸업 프로젝트) |
+|2021.05 - 2021.12|Sell Your Mind|메타버스 프로젝트 (Three JS, React JS)| 개인 프로젝트<br/>(졸업 프로젝트) |
 |2020.11 - 2021.02|[Campus Fund](https://campusfund.net/home)|P2P 플랫폼, 대학생을 위한 크라우드 펀딩 서비스 (Angular JS)| [(주)레드로켓](https://campusfund.net/cs) 서비스<br/>(프론트엔드 개발) |
 |2020.07 - 2020.10|Emoji Speaker|감정 전달 스마트스피커, 음성기반 감정 예측·전달 서비스(Python)| 팀 프로젝트<br/>(팀장) |
 |2020.06 - 2020.10|2020 미래에셋대우<br/>금융 빅데이터 패스티벌|주식거래내역 기반 매수 상위종목 예측 (Python)| 팀 프로젝트<br/>(피처 엔지니어링) |
