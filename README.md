@@ -1,5 +1,5 @@
 ## 🖥 Career
-###### [(주)코르카 (구 Corca Ai)](https://www.corca.ai/ko/research)       |  프론트엔드 개발 Frontend Engineer ( ***재직 중*** )
+###### [(주)코르카 Corca](https://www.corca.ai/ko/research)       |  프론트엔드 개발 Frontend Engineer ( ***재직 중*** )
 ###### [딜로이트 안진 회계 법인 Deloitte](https://www2.deloitte.com/kr/ko.html)  |  리서치 Researcher
 ###### [(주)레드로켓 Redrocket](https://campusfund.net/cs)         |  프론트엔드 개발 Frontend Engineer
 
