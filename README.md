@@ -9,7 +9,7 @@
 ## 🧑🏻‍💻 Project
 |Period|Title|Description|Etc|
 |------|---|---|---|
-|2023.02 - Present|[Corca Ads](https://ads.corca.dev/auth/sign-in) (코르카 애즈)|리테일 미디어 솔루션, 타게팅 설정을 바탕으로 AI 모델이 최적 상품 노출.<br/>[대시보드](https://store.cafe24.com/kr/apps/20784) 및 [맞춤형 LLM 챗봇](https://www.corca.ai/ko/research/llms) 등 서비스 추가 제공 (-)| [(주)코르카](https://www.corca.team/290de6d2-1046-434a-b238-58cb6cc395e1) 서비스<br/>(프론트엔드 개발) |
+|2023.02 - Present|[Corca Ads](https://ads.corca.dev/auth/sign-in) (코르카 애즈)|리테일 미디어 솔루션, 타게팅 설정을 바탕으로 AI 모델이 최적 상품 노출.<br/>[대시보드](https://store.cafe24.com/kr/apps/20784) 및 [맞춤형 LLM 챗봇](https://www.corca.ai/ko/research/llms) 등 서비스 추가 제공 (-)| [(주)코르카](https://www.corca.ai/ko/research) 서비스<br/>(프론트엔드 개발) |
 |2023.06 - Present|[CLOSET](https://closet.adcio.ai/)|AI 코디 추천 서비스, ChatGPT 3.5 및 AI 모델 기반으로<br/>대화형 의류 추천 및 상품 이미지 꼴라쥬 서비스  (-)| [(주)코르카](https://www.corca.team/290de6d2-1046-434a-b238-58cb6cc395e1) 서비스<br/>(프론트엔드 개발) |
 |2021.12 - 2022.10|Ai Artrator|인공지능 플랫폼, 클라우드 서버로 인공지능 모델 이용 및 구매·판매 서비스 (React JS)| 팀 프로젝트<br/>(프론트엔드 개발) |
 |2021.08 - 2022.12|Art Recipe|예술작품 및 재료 정보 공유 플랫폼 (React JS)| 팀 프로젝트<br/>(프론트엔드 개발) |
