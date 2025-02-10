@@ -1,6 +1,3 @@
-### 💻 Front-end Engineer ( Self-motivated team player )
-🤔 구조와 원리를 파고드는, 진취적인 개발자 손도희 입니다.     |    thsehgml37@korea.ac.kr 
-
 ## 🖥 Career
 ###### [(주)코르카 (구 Corca Ai)](https://www.adcio.ai/4be0d473-1885-4c80-806f-f41c06dc71fe)       |  프론트엔드 개발 Frontend Engineer ( ***재직 중*** )
 ###### [딜로이트 안진 회계 법인 Deloitte](https://www2.deloitte.com/kr/ko.html)  |  리서치 Researcher
