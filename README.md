@@ -50,11 +50,6 @@
 ### Activity<br/>
 ###### [ALPS ( 알고리즘 학회 )](https://info.korea.ac.kr/info/community/circle.do), [DEVKOR ( AI·SW 학회 )](https://devkor.notion.site/DevKor-670168c4662a4582b447cfba6f7206f4), [HANDS ( HW·SW학회 )](https://hands.korea.ac.kr/)
 
-
-## 📖 Education
-###### [고려대 정보대학](https://info.korea.ac.kr/info/index.do#none) [소프트웨어벤처융합 전공](https://info.korea.ac.kr/info/under/sw_intro.do)  |  B.E. 공학사 (GPA: 4.02 / 4.50)
-###### [고려대 디자인조형학부](https://and.korea.ac.kr/kuand/index.do)  |  B.F.A. 미술학사 
-
 <!--
 **dohui-son/dohui-son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
