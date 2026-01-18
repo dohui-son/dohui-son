@@ -4,12 +4,6 @@
 ###### [딜로이트 안진 회계 법인 Deloitte](https://www2.deloitte.com/kr/ko.html)  |  리서치 Researcher
 ###### [(주)레드로켓 Redrocket](https://campusfund.net/cs)         |  프론트엔드 개발 Frontend Engineer
 
-### Alogorithm <br/>
-
-#### 2022.09. | 현대자동차그룹 알고리즘 역량 인증(HSAT) 취득  |  현대엔지비
-###### BOJ
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=helloking1234567890)](https://solved.ac/profile/helloking1234567890)
-
 ---
 ### 🏆 Award & Activity
 ### Award<br/>
@@ -18,6 +12,12 @@
 ###### 학기 최우등상 수상 4회  | 고려대학교 |  표창
 ### Activity<br/>
 ###### [ALPS ( 알고리즘 학회 )](https://info.korea.ac.kr/info/community/circle.do), [DEVKOR ( AI·SW 학회 )](https://devkor.notion.site/DevKor-670168c4662a4582b447cfba6f7206f4), [HANDS ( HW·SW학회 )](https://hands.korea.ac.kr/)
+
+### Alogorithm <br/>
+
+#### 2022.09. | 현대자동차그룹 알고리즘 역량 인증(HSAT) 취득  |  현대엔지비
+###### BOJ
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=helloking1234567890)](https://solved.ac/profile/helloking1234567890)
 
 <!--
 **dohui-son/dohui-son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
