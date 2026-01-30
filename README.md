@@ -2,7 +2,7 @@
 ###### [(주)두잇 Doeat](https://doeat.io/)       |  소프트웨어 개발 Software Engineer
 ###### [(주)코르카 Corca](https://www.corca.ai/)       |  프론트엔드 개발 Frontend Engineer
 ###### [딜로이트 안진 회계 법인 Deloitte](https://www2.deloitte.com/kr/ko.html)  |  리서치 Researcher
-###### [(주)레드로켓 Redrocket](https://campusfund.net/cs)         |  프론트엔드 개발 Frontend Engineer
+###### [(주)레드로켓 Redrocket](https://platum.kr/archives/156834)         |  프론트엔드 개발 Frontend Engineer
 
 ---
 ### 🏆 Award & Activity
